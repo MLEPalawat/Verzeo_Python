@@ -1,1 +1,2 @@
 Dummy text
+There are a few changes now
